@@ -1,0 +1,9 @@
+[package]
+name = "ap-drawing"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+checs = "0.4.0"
+nannou = "0.19.0"
+nannou_egui = "0.19.0"
